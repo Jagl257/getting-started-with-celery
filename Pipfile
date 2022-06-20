@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 celery = {extras = ["redis"], version = "*"}
+flask = "*"
 
 [dev-packages]
 
